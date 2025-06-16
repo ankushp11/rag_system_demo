@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Environment variable files
+.env
+.env.*
+
+# PyMuPDF temp files
+*.pdf~
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
+
+# ChromaDB persistent files
+chroma_db/
+*.sqlite
+*.db
+*.log
+
+# Model cache and transformers
+.cache/
+transformers_cache/
+~$transformers/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test outputs
+coverage.xml
+*.cover
+*.pyc
+htmlcov/
+.pytest_cache/
+
+# Logs and temp files
+logs/
+tmp/
+*.log
+*.tmp
+
+# Docker
+*.dockerfile
+Dockerfile
+*.tar
+*.img
+*.container
+
+# OS specific
+*.swp
+*.swo
