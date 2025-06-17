@@ -34,7 +34,7 @@ This is a lightweight Retrieval-Augmented Generation (RAG) system built using op
 
 ---
 
-## 🧪 Running Locally
+## Running Locally
 
 ### 1. Clone Repo
 
